@@ -1,2 +1,1 @@
-# PROJECTS
-THERE ADD ALL TYPE OF PROJECT
+A collection of basic programming projects built for learning, practice, and exploring different concepts and technologies.
